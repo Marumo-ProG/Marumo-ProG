@@ -14,7 +14,7 @@ Welcome to my GitHub profile. I’m a Cloud & DevSecOps-focused engineer who enj
 - 💬 Ask me about AWS, DevSecOps, cloud security, dashboards, automation, or building products solo.
 - 📫 How to reach me:
   - GitHub: https://github.com/Marumo-ProG
-  - LinkedIn: https://www.linkedin.com/in/lenny-thobejane
+  - LinkedIn: [https://www.linkedin.com/in/lenny-thobejane](https://www.linkedin.com/in/thobejanemarumo/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy building systems from infrastructure to frontend and watching them scale.
 
